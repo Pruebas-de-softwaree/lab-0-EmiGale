@@ -29,7 +29,7 @@ if __name__ == "__main__":
 
     print("start test")
 
-    print("Restar solo deberia aceptar numeros")
-    print(subtract("a", 3))
+    print("Multiply solo deberia de aceptar numeros")
+    print(multiply("a", 3))
 
     print("end test")
