@@ -29,7 +29,7 @@ if __name__ == "__main__":
 
     print("start test")
 
-    print("El resultado de sumar dos strings no deberia ser posible")
-    print(add("a", "b"))
+    print("Restar solo deberia aceptar numeros")
+    print(subtract("a", 3))
 
     print("end test")
