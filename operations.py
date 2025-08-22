@@ -29,8 +29,7 @@ if __name__ == "__main__":
 
     print("start test")
 
-    print("El resultado de -9 en raiz cuadrada nos dara un error")
-    print(square_root(-9))
+    print("El resultado de sumar dos strings no deberia ser posible")
+    print(add("a", "b"))
 
     print("end test")
-
