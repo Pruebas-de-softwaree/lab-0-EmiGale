@@ -29,7 +29,7 @@ if __name__ == "__main__":
 
     print("start test")
 
-    print("Power solo deberia de aceptar numeros")
-    print(power(100, "asd"))
+    print("Power no esta elevando a la potencia")
+    print(power(100, 12))
 
     print("end test")
