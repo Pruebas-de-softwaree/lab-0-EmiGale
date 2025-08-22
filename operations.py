@@ -29,7 +29,7 @@ if __name__ == "__main__":
 
     print("start test")
 
-    print("Divide no deberia aceptar dividir entre 0")
-    print(divide(100, 0))
+    print("Power solo deberia de aceptar numeros")
+    print(power(100, "asd"))
 
     print("end test")
