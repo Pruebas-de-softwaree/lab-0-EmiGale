@@ -29,7 +29,7 @@ if __name__ == "__main__":
 
     print("start test")
 
-    print("Maximun no deberia de contener otro valor diferente en a numeros")
-    print(maximum([10,20,"a",40,50]))
+    print("Maximun no devuelve el valor esperado")
+    print(maximum([10,20,30,40,50]))
 
     print("end test")
