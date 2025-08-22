@@ -29,7 +29,7 @@ if __name__ == "__main__":
 
     print("start test")
 
-    print("Power no esta elevando a la potencia")
-    print(square_root("asd"))
+    print("Average no deberia de contener otro valor diferente en a numeros")
+    print(average([10,20,"a",40,50]))
 
     print("end test")
