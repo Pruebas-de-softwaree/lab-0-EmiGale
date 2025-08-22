@@ -30,6 +30,6 @@ if __name__ == "__main__":
     print("start test")
 
     print("Power no esta elevando a la potencia")
-    print(power(100, 12))
+    print(square_root("asd"))
 
     print("end test")
